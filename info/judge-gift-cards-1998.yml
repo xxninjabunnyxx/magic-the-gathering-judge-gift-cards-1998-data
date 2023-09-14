@@ -1,0 +1,18 @@
+---
+object: set
+id: 804c01dd-4714-440a-950e-2f2130d781f3
+code: jgp
+tcgplayer_id: 62
+name: Judge Gift Cards 1998
+uri: https://api.scryfall.com/sets/804c01dd-4714-440a-950e-2f2130d781f3
+scryfall_uri: https://scryfall.com/sets/jgp
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ajgp&unique=prints
+released_at: '1998-01-01'
+set_type: promo
+card_count: 3
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: jgp
+block: Judge Gift Cards
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
